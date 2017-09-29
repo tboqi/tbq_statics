@@ -1,3 +1,12 @@
 [submodule "bootstrap"]
 	path = bootstrap
 	url = git@github.com:tboqi/bootstrap.git
+[submodule "h-ui"]
+	path = h-ui
+	url = git@github.com:tboqi/h-ui.git
+[submodule "H-ui.admin"]
+	path = H-ui.admin
+	url = git@github.com:tboqi/H-ui.admin.git
+[submodule "H-ui.admin.page"]
+	path = H-ui.admin.page
+	url = git@github.com:tboqi/H-ui.admin.page.git
