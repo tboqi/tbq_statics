@@ -10,3 +10,6 @@
 [submodule "H-ui.admin.page"]
 	path = H-ui.admin.page
 	url = git@github.com:tboqi/H-ui.admin.page.git
+[submodule "ueditor"]
+	path = ueditor
+	url = git@github.com:tboqi/ueditor.git
