@@ -13,3 +13,6 @@
 [submodule "ueditor"]
 	path = ueditor
 	url = git@github.com:tboqi/ueditor.git
+[submodule "adminlte"]
+	path = adminlte
+	url = git@github.com:almasaeed2010/AdminLTE.git
