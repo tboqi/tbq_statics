@@ -16,3 +16,18 @@
 [submodule "adminlte"]
 	path = adminlte
 	url = git@github.com:almasaeed2010/AdminLTE.git
+[submodule "fbootstrapp"]
+	path = fbootstrapp
+	url = git@github.com:ckrack/fbootstrapp.git
+[submodule "bootmetro"]
+	path = bootmetro
+	url = git@github.com:aozora/bootmetro.git
+[submodule "amazeui"]
+	path = amazeui
+	url = git@github.com:amazeui/amazeui.git
+[submodule "mui"]
+	path = mui
+	url = git@github.com:dcloudio/mui.git
+[submodule "Semantic-UI"]
+	path = Semantic-UI
+	url = git@github.com:Semantic-Org/Semantic-UI.git
